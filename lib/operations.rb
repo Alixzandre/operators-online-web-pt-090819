@@ -1,5 +1,6 @@
 def unsafe?(speed)
-conditional ? action_if_true : action_if_falseconditional ? action_if_true : action_if_false
+if speed < 40
+  
 end
 
 
